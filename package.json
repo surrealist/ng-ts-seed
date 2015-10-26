@@ -1,0 +1,38 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "description": "my application",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "./node_modules/gulp/bin/gulp.js",
+    "tsc": "./node_modules/typescript/bin/tsc",
+    "serve": "./node_modules/serve/bin/serve"
+  },
+  "keywords": [
+    "training" 
+  ],
+  "author": "Suthep S. <suthep@gfbd.co.th>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "glob": "^5.0.15",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-typescript": "^2.9.2",
+    "gulp-uglify": "^1.4.2",
+    "minimatch": "^3.0.0",
+    "mocha": "^2.3.3",
+    "serve": "^1.4.0",
+    "typescript": "^1.6.2"
+  },
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-bootstrap": "^0.12.2",
+    "bootstrap": "^3.3.5",
+    "chance": "^0.8.0",
+    "font-awesome": "^4.4.0",
+    "jquery": "^2.1.4",
+    "underscore": "^1.8.3"
+  }
+}
