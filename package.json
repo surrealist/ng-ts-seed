@@ -32,7 +32,7 @@
     "bootstrap": "^3.3.5",
     "chance": "^0.8.0",
     "font-awesome": "^4.4.0",
-    "jquery": "^2.1.4",
+    "jquery": "^3.0.0",
     "underscore": "^1.8.3"
   }
 }
